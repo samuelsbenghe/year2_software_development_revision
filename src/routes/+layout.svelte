@@ -17,9 +17,9 @@
 
 	const weeks = [
 		{ href: '/lectures/week1', label: 'Week 1: Introduction' },
-		{ href: '/lectures/week2', label: 'Week 2: Algorithms' },
-		{ href: '/lectures/week3', label: 'Week 3: Data Structures' },
-		{ href: '/lectures/week4', label: 'Week 4: UX/UI Design' }
+		{ href: '/lectures/week2', label: 'Week 2:' },
+		{ href: '/lectures/week3', label: 'Week 3:' },
+		{ href: '/lectures/week4', label: 'Week 4:' }
 	];
 
 	function toggleCategory(id: string) {
