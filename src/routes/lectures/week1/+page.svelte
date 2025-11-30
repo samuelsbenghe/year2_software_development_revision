@@ -3,6 +3,14 @@
 	import pdf_logo from '$lib/assets/pdf_logo.png';
 </script>
 
+<svelte:head>
+	<title>Lecture 1: Introduction to Software Development and Design</title>
+	<meta name="description" content="Lecture 1 covers the fundamentals of Software Development and Design, including Coupling, Cohesion, DRY principles, SOLID principles, and design patterns." />
+	<meta name="keywords" content="Software Development, Software Design, Coupling, Cohesion, DRY Principles, SOLID Principles, Design Patterns, Lecture 1" />
+	<meta name="author" content="Samuel" />
+	<meta name="language" content="en-UK" />
+</svelte:head>
+
 <main class="relative flex h-screen flex-1 flex-col overflow-hidden bg-slate-50">
 	<header class="sticky top-0 z-20 border-b border-slate-200 bg-white shadow-sm">
 		<div class="flex items-center justify-between px-8 py-4">
